@@ -1,14 +1,12 @@
 
 
 ```java
-package A_9_6tencent;
-
 import java.util.*;
 
 /**
  * 字符串次数比较输出
  */
-public class Main3 {
+public class Main {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         while(sc.hasNext()){
